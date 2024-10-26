@@ -1,0 +1,11 @@
+Bonjour les hackers,
+
+Lundi prochain, le 30 septembre, on lance notre premier vrai atelier de programmation – et ça va être un vrai Python 101 ! Le format sera près d'un crash course ultra-rapide de Python où on va couvrir un bon nombre de concepts de base avec ce que 50 minutes peu offrir!
+
+Cet atelier est donc différent des prochains : on va partir de très peu pour apprendre ensemble les rudiments de Python, indispensables pour les concours. Si tu veux découvrir ce langage de programmation ou revoir les bases, sois là à 12h30 pile ! Pour me donner un coup de pouce et bien m’organiser, envoie-moi un petit message avec pour objet : "Intro Python: Néophyte" pour confirmer ta présence.
+
+Les pros de la programmation (ceux qui ont une expérience solide ou qui ont participé au concours l’an passé), je compte sur vous ! Si vous êtes dispo, j’aimerais que vous fassiez équipe avec quelqu’un qui débute pour les aider à prendre un bon départ. Envoyez-moi un message avec pour objet : "Intro Python: Aide" pour me dire que vous pouvez être là.
+
+On va voir ensemble tout ce qu’il faut pour bien commencer : les variables, les entrées/sorties, les listes, les boucles et les conditions – le tout à travers des exemples et des petits défis.
+
+Ci-joint il y a l'horaire des prochains ateliers.
