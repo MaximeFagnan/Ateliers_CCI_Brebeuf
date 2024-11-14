@@ -1,9 +1,15 @@
 # Ateliers_CCI_Brebeuf
  Ateliers de préparation au concours informatique du [CCI](https://cemc.uwaterloo.ca/fr/contests/ccc).
 
+## Date du concours
+
+Le concours est organisé le mercredi 19 février 2024 de 12:30 à 15:30. Contactez [Maxime Fagnan](mailto:maxime.fagnan@brebeuf.qc.ca) pour plus de détails. 
+
 ## Liste des ateliers
 
 ### Automne 2024
+
+Les ateliers se tiennent au G110 cette année
 
 | Dates des ateliers | Sujets   | Exemples utilisés   |
 |  ---               |  ---     |       ---             |
@@ -13,4 +19,37 @@
 | 28 octobre 2024  | Tableaux: tris, inversions et slices              | CCI 2017 - S2 |
 | 11 novembre 2024 | Traitement de texte                               | CCI 2015 - J2 |
 | 18 novembre 2024 | Algorithmes d'exploration de graphes              | À déterminer  |
-| 25 novembre 2024 | Appels récursifs                                  | À déterminer |
+| 25 novembre 2024 | Appels récursifs                                  | À déterminer  |
+
+
+## À propos de nous
+
+### L'équipe organisatrice
+1. [Maxime Fagnan](mailto:maxime.fagnan@brebeuf.qc.ca), professeur du département de mathématique et informatique en charge des ateliers de programmation compétitive.  
+2. [Comité étudiant BrébeufHx](mailto:support@brebeufhackathon.com) ([Site web](https://www.brebeufhackathon.com/)) 
+
+### Les étudiants qui se sont distingués dans le passé
+
+#### 2023-2024
+| Étudiants           | Concours            | Distinction     |
+| :------------------ | :------------------ | :-------------- |
+| Yue Qian Zhang      | CCI niveau senior   | $111^e$ sur 3947|
+| Émile Gobeil        | CCI niveau senior   | Top 20%         |
+| Alexis Andrew Martel| CCI niveau junior   | Top 25%         |
+
+
+#### 2022-2023
+| Étudiants           | Concours            | Distinction     |
+| :------------------ | :------------------ | :-------------- |
+| Yue Qian Zhang      | CCI niveau senior   | Top 25%         |
+| Rukun Dou           | CCI niveau junior   | 75/75           |
+| Rupeng Dou          | CCI niveau junior   | 75/75           |
+| Hubert Kouzham      | CCI niveau junior   | Top 25%         |
+
+# Liens utiles
+[Concours passés du CCI]: https://cemc.uwaterloo.ca/contests/ccc-cco-f.html
+[Concours passés du USACO]: http://www.usaco.org/index.php?page=contests
+
+# Remerciements
+
+Remerciements spéciaux aux frères Dou (Rupeng et Rukun), à Yue Qian Zhang et à Émile Gobeil pour leurs contributions aux ateliers.
