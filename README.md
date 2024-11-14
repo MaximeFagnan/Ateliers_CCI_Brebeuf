@@ -34,7 +34,7 @@ Les ateliers se tiennent au G110 cette année
 #### 2023-2024
 | Étudiants           | Concours            | Distinction     |
 | :------------------ | :------------------ | :-------------- |
-| Yue Qian Zhang      | CCI niveau senior   | $111^\text{e}$ sur 3947|
+| Yue Qian Zhang      | CCI niveau senior   | $111^\text{e}$ sur $3947$|
 | Émile Gobeil        | CCI niveau senior   | Top 20%         |
 | Alexis Andrew Martel| CCI niveau junior   | Top 25%         |
 
