@@ -48,9 +48,9 @@ Les ateliers se tiennent au G110 cette année
 | Hubert Kouzham      | CCI niveau junior   | Top 25%         |
 
 # Liens utiles
-[Concours passés du CCI]: https://cemc.uwaterloo.ca/contests/ccc-cco-f.html
-[Concours passés du USACO]: http://www.usaco.org/index.php?page=contests
+[Concours passés du CCI](https://cemc.uwaterloo.ca/contests/ccc-cco-f.html)
+[Concours passés du USACO](http://www.usaco.org/index.php?page=contests)
 
 # Remerciements
 
-Remerciements spéciaux aux frères Dou (Rupeng et Rukun), à Yue Qian Zhang et à Émile Gobeil pour leurs contributions aux ateliers.
+Remerciements spéciaux aux frères Dou (Rupeng et Rukun) (2021-2024), à Yue Qian Zhang (2022-2025) et à Émile Gobeil (2022-2025) pour leurs contributions aux ateliers.
