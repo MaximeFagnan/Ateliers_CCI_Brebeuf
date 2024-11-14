@@ -1,4 +1,4 @@
-# Ateliers_CCI_Brebeuf
+# Ateliers de programmation compétitive du collège Jean-de-Brébeuf
  Ateliers de préparation au concours informatique du [CCI](https://cemc.uwaterloo.ca/fr/contests/ccc).
 
 ## Date du concours
