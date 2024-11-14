@@ -48,7 +48,7 @@ Les ateliers se tiennent au G110 cette année
 | Hubert Kouzham      | CCI niveau junior   | Top 25%         |
 
 # Liens utiles
-[Concours passés du CCI](https://cemc.uwaterloo.ca/contests/ccc-cco-f.html)
+[Concours passés du CCI](https://cemc.uwaterloo.ca/contests/ccc-cco-f.html)\
 [Concours passés du USACO](http://www.usaco.org/index.php?page=contests)
 
 # Remerciements
