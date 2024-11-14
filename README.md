@@ -25,15 +25,16 @@ Les ateliers se tiennent au G110 cette année
 ## À propos de nous
 
 ### L'équipe organisatrice
-1. [Maxime Fagnan](mailto:maxime.fagnan@brebeuf.qc.ca), professeur du département de mathématique et informatique en charge des ateliers de programmation compétitive.  
-2. [Comité étudiant BrébeufHx](mailto:support@brebeufhackathon.com) ([Site web](https://www.brebeufhackathon.com/)) 
+1. [Maxime Fagnan](mailto:maxime.fagnan@brebeuf.qc.ca), professeur du département de mathématique et informatique en charge des ateliers de programmation compétitive.
+2. [Meriem Souguir](mailto:meriem.souguir@brebeuf.qc.ca), professeure du département de mathématique et informatique.
+3. [Comité étudiant BrébeufHx](mailto:support@brebeufhackathon.com) ([Site web](https://www.brebeufhackathon.com/)) 
 
 ### Les étudiants qui se sont distingués dans le passé
 
 #### 2023-2024
 | Étudiants           | Concours            | Distinction     |
 | :------------------ | :------------------ | :-------------- |
-| Yue Qian Zhang      | CCI niveau senior   | $111^e$ sur 3947|
+| Yue Qian Zhang      | CCI niveau senior   | 111$^\text{e}$ sur 3947|
 | Émile Gobeil        | CCI niveau senior   | Top 20%         |
 | Alexis Andrew Martel| CCI niveau junior   | Top 25%         |
 
